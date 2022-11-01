@@ -1,6 +1,6 @@
 #  Searches movies and series using OMDb API
 
-The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. 
+The OMDb API is a RESTful web service to obtain movie information.
 
 # Getting Started with Create React App
 
